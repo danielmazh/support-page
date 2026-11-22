@@ -25,5 +25,6 @@ window.SUPPORT_CONFIG = {
     "quickflow": { he: "QuickFlow", en: "QuickFlow" },
     "household-shop": { he: "Household Shop", en: "Household Shop" },
     "oeuvre": { he: "Oeuvre", en: "Oeuvre" },
+    "kolli": { he: "קולי", en: "Kolli" },
   },
 };
